@@ -5,7 +5,7 @@
 > I love to apply the principles of responsive design and watch my 
 > web pages turn into mobile screens and still look amazing.
 > Oddly enough, it's nice. 
-> I am plastic, but I still retain my creativity.
+> I am plastic, but I still retain my creativity.:rocket:
 
 ###### :email: You can contact me at this address: [zhekager91@gmail.com]
 
@@ -22,4 +22,6 @@
 ![alt-текст](https://i.ibb.co/PWf792R/Kisspng-netlify-static-web-page-gulp-js-github-bitbucket-logo-5b4693a88d0160-7139808115313519765776.png "Текст заголовка логотипа 1")<br>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yevhenii-herasymenko/)<br>
- [![Github All Releases](https://img.shields.io/github/search/Zhekager/linux/goto?color=blue)]
+ 
+![:eyes:](https://visitor-badge.glitch.me/badge?page_id=Zhekager)
+![attendance](https://img.shields.io/github/watchers/Zhekager/readme?color=red&style=social)
