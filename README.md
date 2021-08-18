@@ -16,6 +16,6 @@
 ![alt-текст](https://i.ibb.co/bPf04Y4/Kisspng-website-development-logo-node-js-scalable-vector-g-jet-5b643ebeb2d093-6340612715332963187324.png "Текст заголовка логотипа 1")<br>
 ![alt-текст](https://i.ibb.co/j9NJVDH/Kisspng-react-javascript-library-redux-application-softwar-next-generation-system-integrator-sorint.png "Текст заголовка логотипа 1")
 ![alt-текст](https://i.ibb.co/KVt3Gwf/Kisspng-webpack-babel-source-to-source-compiler-javascript-js-5b2f85c8dc0135-6604101315298410969012.png "Текст заголовка логотипа 1")
-![alt-текст](https://i.ibb.co/txK8p4L/Kisspng-handlebars-webpack-logo-javascript-npm-5b1e97ca2693e6-059881111528731594158.png "Текст заголовка логотипа 1")
-![alt-текст](https://i.ibb.co/cYdyQps/Kisspng-webpack-npm-postcss-logo-javascript-5b096f710d33a8-2930265915273450090541.png "Текст заголовка логотипа 1") <br>
+![alt-текст](https://i.ibb.co/txK8p4L/Kisspng-handlebars-webpack-logo-javascript-npm-5b1e97ca2693e6-059881111528731594158.png "Текст заголовка логотипа 1")<br>
+![alt-текст](https://i.ibb.co/cYdyQps/Kisspng-webpack-npm-postcss-logo-javascript-5b096f710d33a8-2930265915273450090541.png "Текст заголовка логотипа 1") 
 ![alt-текст](https://i.ibb.co/PWf792R/Kisspng-netlify-static-web-page-gulp-js-github-bitbucket-logo-5b4693a88d0160-7139808115313519765776.png "Текст заголовка логотипа 1")
