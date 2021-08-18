@@ -24,4 +24,4 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yevhenii-herasymenko/)<br>
  
 ![attendance](https://visitor-badge.glitch.me/badge?page_id=Zhekager)
-![attendance](https://img.shields.io/github/watchers/Zhekager/id=Zhekager?color=red&style=social)
+![attendance](https://img.shields.io/github/watchers/Zhekager/Zhekager?style=social)
