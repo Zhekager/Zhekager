@@ -1,6 +1,6 @@
 # Hi guys!:wave: I'm Yevhenii. 
 
-/twitter/url?url=https%3A%2F%2Fshields.io
+
 
 > I love to apply the principles of responsive design and watch my 
 > web pages turn into mobile screens and still look amazing.
