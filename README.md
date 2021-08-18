@@ -22,4 +22,6 @@
 ![alt-текст](https://i.ibb.co/PWf792R/Kisspng-netlify-static-web-page-gulp-js-github-bitbucket-logo-5b4693a88d0160-7139808115313519765776.png "Текст заголовка логотипа 1")<br>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yevhenii-herasymenko/)<br>
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
+.. image:: https://img.shields.io/github/search/Zhekager/wind/goto?color=blue&logo=visited&logoColor=red   :alt: GitHub search hit counter <br>
+image:https://img.shields.io/github/search/Zhekager/wind/goto?color=blue&logo=visited&logoColor=red[GitHub search hit counter]
