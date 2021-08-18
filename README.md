@@ -1,6 +1,6 @@
 # Hi guys!:wave: I'm Yevhenii. 
 
-https://img.shields.io/steam/views/0?color=green&logo=views&style=plastic
+
 
 > I love to apply the principles of responsive design and watch my 
 > web pages turn into mobile screens and still look amazing.
@@ -19,4 +19,6 @@ https://img.shields.io/steam/views/0?color=green&logo=views&style=plastic
 ![alt-текст](https://i.ibb.co/KVt3Gwf/Kisspng-webpack-babel-source-to-source-compiler-javascript-js-5b2f85c8dc0135-6604101315298410969012.png "Текст заголовка логотипа 1")
 ![alt-текст](https://i.ibb.co/txK8p4L/Kisspng-handlebars-webpack-logo-javascript-npm-5b1e97ca2693e6-059881111528731594158.png "Текст заголовка логотипа 1")
 ![alt-текст](https://i.ibb.co/cYdyQps/Kisspng-webpack-npm-postcss-logo-javascript-5b096f710d33a8-2930265915273450090541.png "Текст заголовка логотипа 1") 
-![alt-текст](https://i.ibb.co/PWf792R/Kisspng-netlify-static-web-page-gulp-js-github-bitbucket-logo-5b4693a88d0160-7139808115313519765776.png "Текст заголовка логотипа 1")
+![alt-текст](https://i.ibb.co/PWf792R/Kisspng-netlify-static-web-page-gulp-js-github-bitbucket-logo-5b4693a88d0160-7139808115313519765776.png "Текст заголовка логотипа 1")<br>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
