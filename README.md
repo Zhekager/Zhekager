@@ -21,4 +21,4 @@
 ![alt-текст](https://i.ibb.co/cYdyQps/Kisspng-webpack-npm-postcss-logo-javascript-5b096f710d33a8-2930265915273450090541.png "Текст заголовка логотипа 1") 
 ![alt-текст](https://i.ibb.co/PWf792R/Kisspng-netlify-static-web-page-gulp-js-github-bitbucket-logo-5b4693a88d0160-7139808115313519765776.png "Текст заголовка логотипа 1")<br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yevhenii-herasymenko/)
