@@ -7,7 +7,7 @@
 > Oddly enough, it's nice. 
 > I am plastic, but I still retain my creativity.:rocket:
 
-###### :email: You can contact me at this address: [zhekager91@gmail.com]
+##### :email: You can contact me at this address: ![zhekager91@gmail.com](https://i.ibb.co/3FdxhR4/5a3553a6d3f643-7005266215134442628682.png "Текст заголовка логотипа 1")
 
 ### :computer: My technical skills:
 ![alt-текст](https://i.ibb.co/B4PDVLL/Kisspng-angle-area-text-brand-other-html-5-5ab0d3672a6728-9914395915215378951737.png "Текст заголовка логотипа 1")
@@ -22,7 +22,8 @@
 ![alt-текст](https://i.ibb.co/PWf792R/Kisspng-netlify-static-web-page-gulp-js-github-bitbucket-logo-5b4693a88d0160-7139808115313519765776.png "Текст заголовка логотипа 1")<br>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yevhenii-herasymenko/)<br>
- 
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yevhenii-herasymenko/)
+
 ![attendance](https://visitor-badge.glitch.me/badge?page_id=Zhekager)
-![attendance](https://img.shields.io/github/watchers/Zhekager/Zhekager?style=social)
-![attendance](https://img.shields.io/github/search/Zhekager/Zhekager/Zhekager?label=watch)
+![watchers](https://img.shields.io/github/watchers/Zhekager/Zhekager?style=social)
+![search](https://img.shields.io/github/search/Zhekager/Zhekager/Zhekager?label=watch)
