@@ -18,10 +18,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=htm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=4AB197)
-
-
-<br>
-
+![](https://img.shields.io/badge/Tools-React-router-informational?style=flat&logo=React-router&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 
@@ -32,7 +29,6 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Percel-informational?style=flat&logo=Percel&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-React-router-informational?style=flat&logo=React-router&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Handlebars-informational?style=flat&logo=Handlebars&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AJAX-informational?style=flat&logo=AJAX&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
@@ -40,9 +36,4 @@
 ![](https://img.shields.io/badge/Tools-GitBash-informational?style=flat&logo=GitBash&logoColor=white&color=4AB197)
 
 
-
- 
 ![attendance](https://visitor-badge.glitch.me/badge?page_id=Zhekager)
-
-
-React router
