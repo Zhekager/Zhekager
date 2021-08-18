@@ -1,6 +1,6 @@
 # Hi guys!:wave: I'm Yevhenii. 
 
-[j](https://img.shields.io/steam/views/0?color=green&logo=views&style=plastic)
+https://img.shields.io/steam/views/0?color=green&logo=views&style=plastic
 
 > I love to apply the principles of responsive design and watch my 
 > web pages turn into mobile screens and still look amazing.
