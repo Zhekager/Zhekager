@@ -25,3 +25,4 @@
  
 ![attendance](https://visitor-badge.glitch.me/badge?page_id=Zhekager)
 ![attendance](https://img.shields.io/github/watchers/Zhekager/Zhekager?style=social)
+![attendance](https://img.shields.io/github/search/Zhekager/Zhekager/Zhekager?label=watch)
